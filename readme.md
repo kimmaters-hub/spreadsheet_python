@@ -1,0 +1,1 @@
+A lightweight spreadsheet simulator with 26 columns (A–Z) and customizable rows. Supports setting, resetting, and evaluating cell values using simple formulas like =A1+B2+5. Unset cells default to zero. Designed for educational use, algorithm practice, and lightweight data modeling.
